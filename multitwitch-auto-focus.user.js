@@ -4,9 +4,6 @@
 // @version      2.3.0
 // @description  When the Twitch iframe shows focus player
 // @match        https://www.multitwitch.tv/*
-// @match        https://multitwitch.tv/*
-// @match        https://player.twitch.tv/*
-// @match        https://player.twitch.tv/?*
 // @run-at       document-idle
 // @grant        none
 // @downloadURL  https://raw.githubusercontent.com/Blake-goofy/User-scripts/main/multitwitch-auto-focus.user.js
